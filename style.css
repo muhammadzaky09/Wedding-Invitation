@@ -1,0 +1,12 @@
+body{
+    min-height: 2000px;
+    font-family: 'Poppins', sans-serif;
+}
+.hero{
+    min-height: 100vh;
+    background-color: black;
+}
+.hero h1 {
+    font-family: 'Caveat', cursive;
+    font-size: 5.5rem;
+}
